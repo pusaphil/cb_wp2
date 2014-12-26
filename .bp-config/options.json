@@ -1,0 +1,5 @@
+{
+        "WEB_SERVER" : "httpd",
+        "PHP_EXTENSIONS" : ["mbstring", "mysqli", "mcrypt", "gd", "zip", "pdo", "pdo_mysql", "mysql"]
+}
+
